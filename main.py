@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 
-# Putting nodes in separate lists makes positioning easier
+# Putting nodes in lists makes positioning easier
 inputs = ["Emails", "Alerts", "Spam Reports"]
 work = ["Total Inputs"]
 outputs = ["False Positives", "Incidents", "Requests", "Incident Communication Emails", "FTRs", "Simple Spam"]
